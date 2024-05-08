@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JahkaiSS
 - 👀 I’m interested in website and game development
 - 🌱 I’m currently learning full-stack web development and Pygame
-- 💞️ I’m looking to collaborate on idk yet
-- 📫 How to reach me 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play piano, so expect to see some cool musical apps coming out in the future.
 
